@@ -1,0 +1,93 @@
+body {
+	margin:0;
+	padding:0;
+}
+#Holder{
+	width:980px;
+	height:auto;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:21px;
+	margin-bottom:21px;
+}
+#Header{
+	height:228px;
+	background-image:url(../assets/login.png);
+	background-repeat:no-repeat;
+	margin-bottom:11px;
+}
+
+#NavBar{
+	height:60px;
+	background-color:#9A6EAD;
+}
+#Content{
+	height:auto;
+	clear:both;
+	overflow:auto;
+}
+#ContentLeft{
+	width:280px;
+	float:left;
+	padding-left:11px;
+	margin::0;
+	font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	font-size:20px;
+	color:#B392C1;
+	
+}
+#ContentRight{
+	width:680px;
+	float:right;
+}
+#PageHeading{
+	height:auto;
+	padding:11px;
+}
+#Footer{
+	height:100px;
+}
+h1{
+	margin:0;
+	font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+	color:#9C71AE;
+}
+h6{margin:0;
+	font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+	color:#9C71AE;
+	font-size:26px;
+}
+.text{
+	font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+	font-size:25px;
+	font-color:#815493;S
+	border:1px solid #9C71AE;
+	border-radius:20px;
+	width:200px;
+	height::35px;
+}
+
+#RegisterForm{
+	border-color:#FCFCFC;
+	border-width:0px;
+	border-left-color:#FCFCFC;
+}
+
+#label{
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+	font-size: 25px;
+	font-color: #FDFDFD;
+	color: #FFFFFF;
+}
+
+#RegisterButton{
+	font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+	font-size:36px;
+	background-image:url(../assets/button.jpg);
+	font-color:#9A6EAD;
+}
+
+
+
+	
+	
